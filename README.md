@@ -1,3 +1,5 @@
+# word2vec 源码阅读笔记
+基于原先的 word2vec_commented 项目, 结合自己的理解, 增加相关的源码阅读笔记
 
 # word2vec_commented
 This project is a functionally unaltered version of Google's published [word2vec implementation in C](https://code.google.com/archive/p/word2vec/), but which includes source comments. 
